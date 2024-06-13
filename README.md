@@ -3,6 +3,7 @@
 - ExpressJS
 - ReactJS
 - NodeJS
+- Tailwind CSS
 - Vite.js
 # RUN
 ## api
