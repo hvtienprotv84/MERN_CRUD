@@ -3,6 +3,7 @@
 - ExpressJS
 - ReactJS
 - NodeJS
+- Vite.js
 # RUN
 ## api
 - npm start
